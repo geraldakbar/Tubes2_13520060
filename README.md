@@ -19,23 +19,32 @@ Program ini adalah sebuah aplikasi destkop yang dikembangkan dengan bahasa C#. A
 
 <br>
 
+## Setup
+### Installasi
+- Download dan install [Visual Studio](https://visualstudio.microsoft.com/vs/) 
+- Install the whole modules and [libraries](#library) gunakan dalam source code
+- Download the whole folders and files in this repository or do clone the repository
+
 ## Requirements<a name="req"></a>
 - Komputer menggunakan sistem operasi Windows
 
 <br>
 
 ## Cara Menggunakan Program <a name="use"></a>
-1. Unzip File Tubes_13520060
+1. Clone Repository
+  `git clone https://github.com/geraldakbar/Tubes2_13520060.git`
+  
+2. Unzip File Tubes_13520060
 
-2. Buka folder bin/debug
+3. Buka folder bin/debug
 
-3. Jalankan Folder_Crawling.exe
+4. Jalankan Folder_Crawling.exe
 
-4. Input Root Folder dan nama file yang ingin dicari
+5. Input Root Folder dan nama file yang ingin dicari
 <img width="561" alt="Screen Shot 2022-03-25 at 23 41 58" src="https://user-images.githubusercontent.com/69229629/160163896-5f66aacd-a23a-4c23-b01f-d2d8c349b785.png">
 
 
-5. Setelah berhasil running, program akan menampilkan graf hasil penelusuran
+6. Setelah berhasil running, program akan menampilkan graf hasil penelusuran
 <img width="565" alt="Screen Shot 2022-03-25 at 23 42 28" src="https://user-images.githubusercontent.com/69229629/160163985-74e734a2-5861-43f7-a5ff-845813d6803d.png">
 
 

@@ -152,12 +152,16 @@ namespace Folder_Crawling
                     stopwatch.Stop();
                 }
 
+                // Tambahin garis
+                PathSearching();
+
                 // Add Time Searching
                 TimerSearching(stopwatch);
 
-                // Path hasil pencarian
+                // Tambahin garis
                 PathSearching();
 
+                // Tambahin tulisan path
                 ShowPathSearching();
 
                 if (this.isDFS)
@@ -215,7 +219,7 @@ namespace Folder_Crawling
 
         public void PathSearching(){
             Label spacing = new Label();
-            spacing.Text = "------------------------------------------------";
+            spacing.Text = "---------------------------------------------------";
             spacing.AutoSize = true;
             spacing.ForeColor = Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             flowLayoutPanel1.Controls.Add(spacing);

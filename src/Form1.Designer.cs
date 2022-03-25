@@ -320,6 +320,8 @@ namespace Folder_Crawling
             // 
             // gViewer
             // 
+            this.gViewer.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.gViewer.ArrowheadLength = 10D;
             this.gViewer.AsyncLayout = false;
             this.gViewer.AutoScroll = true;
@@ -327,7 +329,6 @@ namespace Folder_Crawling
             this.gViewer.BackwardEnabled = false;
             this.gViewer.BuildHitTree = true;
             this.gViewer.CurrentLayoutMethod = Microsoft.Msagl.GraphViewerGdi.LayoutMethod.UseSettingsOfTheGraph;
-            this.gViewer.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gViewer.EdgeInsertButtonVisible = true;
             this.gViewer.FileName = "";
             this.gViewer.ForwardEnabled = false;
@@ -369,10 +370,12 @@ namespace Folder_Crawling
             // 
             // flowLayoutPanel1
             // 
+            this.flowLayoutPanel1.AutoScroll = true;
             this.flowLayoutPanel1.BackColor = System.Drawing.Color.Black;
+            this.flowLayoutPanel1.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
             this.flowLayoutPanel1.Location = new System.Drawing.Point(450, 558);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(822, 137);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(822, 134);
             this.flowLayoutPanel1.TabIndex = 21;
             this.flowLayoutPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.flowLayoutPanel1_Paint);
             // 

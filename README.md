@@ -3,8 +3,8 @@ Pengaplikasian Algoritma BFS dan DFS dalam Implementasi Folder Crawling
 <img width="596" alt="Screen Shot 2022-03-25 at 23 44 41" src="https://user-images.githubusercontent.com/69229629/160164384-8df830af-347e-4b0d-9444-23f81ddae750.png">
 
 ## Anggota Kelompok
-13520060 - Rheza Rizqullah Ecaldy
-13520137 - Muhammad Gilang Ramadhan
+13520060 - Rheza Rizqullah Ecaldy <br>
+13520137 - Muhammad Gilang Ramadhan <br>
 13520143 - Muhammad Gerald Akbar Giffera
 
 <br>

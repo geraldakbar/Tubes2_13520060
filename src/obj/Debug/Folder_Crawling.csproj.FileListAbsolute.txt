@@ -34,3 +34,19 @@ D:\Tugas kuliah semester 4\Strategi Algoritma\Tubes_2\Tubes 2_Tukang Lipat\src\o
 D:\Tugas kuliah semester 4\Strategi Algoritma\Tubes_2\Tubes 2_Tukang Lipat\src\obj\Debug\Folder_Crawling.csproj.GenerateResource.cache
 D:\Tugas kuliah semester 4\Strategi Algoritma\Tubes_2\Tubes 2_Tukang Lipat\src\obj\Debug\Folder_Crawling.csproj.CoreCompileInputs.cache
 D:\Tugas kuliah semester 4\Strategi Algoritma\Tubes_2\Tubes 2_Tukang Lipat\src\obj\Debug\Folder_Crawling.csproj.CopyComplete
+D:\KULIAH\Sem 4\Stima\Tubes\2\copy\bin\Debug\Folder_Crawling.exe.config
+D:\KULIAH\Sem 4\Stima\Tubes\2\copy\bin\Debug\Folder_Crawling.exe.manifest
+D:\KULIAH\Sem 4\Stima\Tubes\2\copy\bin\Debug\Folder_Crawling.application
+D:\KULIAH\Sem 4\Stima\Tubes\2\copy\bin\Debug\Folder_Crawling.exe
+D:\KULIAH\Sem 4\Stima\Tubes\2\copy\bin\Debug\Folder_Crawling.pdb
+D:\KULIAH\Sem 4\Stima\Tubes\2\copy\Tubes2_13520060\src\obj\Debug\Folder_Crawling.csproj.AssemblyReference.cache
+D:\KULIAH\Sem 4\Stima\Tubes\2\copy\Tubes2_13520060\src\obj\Debug\Folder_Crawling.csproj.SuggestedBindingRedirects.cache
+D:\KULIAH\Sem 4\Stima\Tubes\2\copy\Tubes2_13520060\src\obj\Debug\Folder_Crawling.Form1.resources
+D:\KULIAH\Sem 4\Stima\Tubes\2\copy\Tubes2_13520060\src\obj\Debug\Folder_Crawling.Properties.Resources.resources
+D:\KULIAH\Sem 4\Stima\Tubes\2\copy\Tubes2_13520060\src\obj\Debug\Folder_Crawling.csproj.GenerateResource.cache
+D:\KULIAH\Sem 4\Stima\Tubes\2\copy\Tubes2_13520060\src\obj\Debug\Folder_Crawling.csproj.CoreCompileInputs.cache
+D:\KULIAH\Sem 4\Stima\Tubes\2\copy\Tubes2_13520060\src\obj\Debug\Folder_Crawling.exe.manifest
+D:\KULIAH\Sem 4\Stima\Tubes\2\copy\Tubes2_13520060\src\obj\Debug\Folder_Crawling.application
+D:\KULIAH\Sem 4\Stima\Tubes\2\copy\Tubes2_13520060\src\obj\Debug\Folder_Crawling.csproj.CopyComplete
+D:\KULIAH\Sem 4\Stima\Tubes\2\copy\Tubes2_13520060\src\obj\Debug\Folder_Crawling.exe
+D:\KULIAH\Sem 4\Stima\Tubes\2\copy\Tubes2_13520060\src\obj\Debug\Folder_Crawling.pdb
